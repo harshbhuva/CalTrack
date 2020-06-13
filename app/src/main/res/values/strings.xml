@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CalTrack</string>
+    <string name="title_activity_details">Details</string>
+    <string name="weight">in kgs</string>
+    <string name="name">Name</string>
+    <string name="height">  in cm\"</string>
+    <string name="proffession">Proffession</string>
+    <string name="bmr">BMR</string>
+    <string name="bmi">BMI</string>
+    <string name="Calorie">Daily\nCaloric\nNeed</string>
+    <string name="workoutText">Enter Active Days Per Week:</string>
+    <string name="ageText">Enter Age:</string>
+    <string-array name="lifestyles">
+        <item>Relaxed</item>
+        <item>Active</item>
+        <item>Very Active</item>
+    </string-array>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="description_info">Info</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="button_calories">Check Calories</string>
+</resources>
